@@ -1,0 +1,3 @@
+Dependencies for Project '74HC595', Target '74HC595': (DO NOT MODIFY !)
+F (.\Startup.s)(0x4DF0CB60)(--cpu Cortex-M3 --pd "__EVAL SETA 1" -g --apcs=interwork --pd "__MICROLIB SETA 1"-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Luminary--list .\startup.lst --xref -o .\startup.o --depend .\startup.d)
+F (.\74HC595.c)(0x5739E872)(-c --cpu Cortex-M3 -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork -I.. -I..\..\..-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Luminary-o .\74hc595.o --omf_browse .\74hc595.crf --depend .\74hc595.d)
